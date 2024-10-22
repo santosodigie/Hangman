@@ -1,0 +1,15 @@
+/Users/santosodigie/CSharpProjects/Hangman/bin/Debug/net7.0/Hangman
+/Users/santosodigie/CSharpProjects/Hangman/bin/Debug/net7.0/Hangman.deps.json
+/Users/santosodigie/CSharpProjects/Hangman/bin/Debug/net7.0/Hangman.runtimeconfig.json
+/Users/santosodigie/CSharpProjects/Hangman/bin/Debug/net7.0/Hangman.dll
+/Users/santosodigie/CSharpProjects/Hangman/bin/Debug/net7.0/Hangman.pdb
+/Users/santosodigie/CSharpProjects/Hangman/obj/Debug/net7.0/Hangman.csproj.AssemblyReference.cache
+/Users/santosodigie/CSharpProjects/Hangman/obj/Debug/net7.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santosodigie/CSharpProjects/Hangman/obj/Debug/net7.0/Hangman.AssemblyInfoInputs.cache
+/Users/santosodigie/CSharpProjects/Hangman/obj/Debug/net7.0/Hangman.AssemblyInfo.cs
+/Users/santosodigie/CSharpProjects/Hangman/obj/Debug/net7.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/santosodigie/CSharpProjects/Hangman/obj/Debug/net7.0/Hangman.dll
+/Users/santosodigie/CSharpProjects/Hangman/obj/Debug/net7.0/refint/Hangman.dll
+/Users/santosodigie/CSharpProjects/Hangman/obj/Debug/net7.0/Hangman.pdb
+/Users/santosodigie/CSharpProjects/Hangman/obj/Debug/net7.0/Hangman.genruntimeconfig.cache
+/Users/santosodigie/CSharpProjects/Hangman/obj/Debug/net7.0/ref/Hangman.dll
