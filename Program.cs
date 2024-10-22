@@ -59,7 +59,7 @@ if (win)
 }
 else
 {
-    Console.WriteLine("You lose...");
+    Console.WriteLine($"You lose...\n\n The word was {wordToGuess}");
 }
 
 
