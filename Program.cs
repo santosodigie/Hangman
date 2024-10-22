@@ -41,9 +41,22 @@ while (currentLives > 0 && !win)
 
     foreach (char c in wordToGuess)
     {
-
+        if (!guessedLetters.Contains(c))
+        {
+            woordComplete = false;
+        }
+        win = woordComplete;
     }
 
+}
+
+if (win)
+{
+    Console.WriteLine("Congrats, You have won");
+}
+else
+{
+    Console.WriteLine("You lose...");
 }
 
 
