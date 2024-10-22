@@ -1,7 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Random rand = new Random();
 Greeting();
 
-string wordToGuess = "chelsea";
+string[] randomWords = { "decrease", "accept", "center", "vacuum", "danger", "mess", "similar", "voucher", "admission", "mother", "confrontation", "equinox", "painter", "fortune", "origin", "bother", "father", "goverment", "expose", "christian", "chelsea", "arsenal", "nonremittal", "jewel", "heir", "drum", "dismissal" };
+int index = rand.Next(randomWords.Length);
+string wordToGuess = randomWords[index];
 int maxLives = 7;
 int currentLives = maxLives;
 bool win = false;
