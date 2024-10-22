@@ -24,6 +24,26 @@ while (currentLives > 0 && !win)
     Console.WriteLine("\nPlease guess a letter!");
     Console.WriteLine(currentLives + "/" + maxLives + " lives remaining");
 
+    char guess = Convert.ToChar(Console.ReadLine());
+
+    if (wordToGuess.Contains(guess) && !guessedLetters.Contains(guess))
+    {
+        Console.WriteLine("Correct");
+    }
+    else
+    {
+        Console.WriteLine("Incorrect");
+        currentLives--;
+    }
+    guessedLetters.Add(guess);
+
+    bool woordComplete = true;
+
+    foreach (char c in wordToGuess)
+    {
+
+    }
+
 }
 
 
